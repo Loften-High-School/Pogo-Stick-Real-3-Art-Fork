@@ -5,3 +5,5 @@ Then a lazers going down and a fake chest near the top with a fake rainbow pogo 
 Each level will have a small fragment based around the level design( A circus level could have something like a 3rd of a circus ball the custom level
 is up to you and the 3rd could be a volcanic rock)
 Once someone gets all the fragments the 3 levels combine into one giant level or the entire mountin.
+
+I do want to say once we can I will add a photo of the map design that we made a bit ago!
