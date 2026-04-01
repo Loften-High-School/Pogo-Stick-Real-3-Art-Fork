@@ -1,18 +1,18 @@
 {
   "context": {
-    "projectPath": "/Users/aramirez/Desktop/Github/PogoStick-real/Packages",
+    "projectPath": "/Users/rtesterbrook/Desktop/Pogo-Stick-Real-3/PogoStick-real/Packages",
     "unityVersion": "6000.0.55f1"
   },
   "inputs": [
-    "/Users/aramirez/Desktop/Github/PogoStick-real/Packages/manifest.json",
-    "/Users/aramirez/Desktop/Github/PogoStick-real/Packages/packages-lock.json",
+    "/Users/rtesterbrook/Desktop/Pogo-Stick-Real-3/PogoStick-real/Packages/manifest.json",
+    "/Users/rtesterbrook/Desktop/Pogo-Stick-Real-3/PogoStick-real/Packages/packages-lock.json",
     "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
     "com.unity.multiplayer.center@1.0.0": {
       "name": "com.unity.multiplayer.center",
       "displayName": "Multiplayer Center",
-      "resolvedPath": "/Users/aramirez/Desktop/Github/PogoStick-real/Library/PackageCache/com.unity.multiplayer.center@f3fb577b3546",
+      "resolvedPath": "/Users/rtesterbrook/Desktop/Pogo-Stick-Real-3/PogoStick-real/Library/PackageCache/com.unity.multiplayer.center@f3fb577b3546",
       "fingerprint": "f3fb577b3546594b97b8cc34307cd621f60f1c73",
       "editorCompatibility": "6000.0.0a1",
       "version": "1.0.0",
@@ -22,7 +22,7 @@
     "com.unity.toolchain.macos-x86_64-linux-x86_64@2.0.11": {
       "name": "com.unity.toolchain.macos-x86_64-linux-x86_64",
       "displayName": "Toolchain MacOS Linux x64",
-      "resolvedPath": "/Users/aramirez/Desktop/Github/PogoStick-real/Library/PackageCache/com.unity.toolchain.macos-x86_64-linux-x86_64@0350a43511cb",
+      "resolvedPath": "/Users/rtesterbrook/Desktop/Pogo-Stick-Real-3/PogoStick-real/Library/PackageCache/com.unity.toolchain.macos-x86_64-linux-x86_64@0350a43511cb",
       "fingerprint": "0350a43511cbce4ac38a82c02ac376f8d701c8ae",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.0.11",
@@ -304,7 +304,7 @@
     "com.unity.sysroot@2.0.10": {
       "name": "com.unity.sysroot",
       "displayName": "Sysroot Base",
-      "resolvedPath": "/Users/aramirez/Desktop/Github/PogoStick-real/Library/PackageCache/com.unity.sysroot@7bbbb9339c14",
+      "resolvedPath": "/Users/rtesterbrook/Desktop/Pogo-Stick-Real-3/PogoStick-real/Library/PackageCache/com.unity.sysroot@7bbbb9339c14",
       "fingerprint": "7bbbb9339c143f6fbccaeb0a52c77b9217b35a71",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.0.10",
@@ -314,7 +314,7 @@
     "com.unity.sysroot.linux-x86_64@2.0.9": {
       "name": "com.unity.sysroot.linux-x86_64",
       "displayName": "Sysroot Linux x64",
-      "resolvedPath": "/Users/aramirez/Desktop/Github/PogoStick-real/Library/PackageCache/com.unity.sysroot.linux-x86_64@1998d1c7730e",
+      "resolvedPath": "/Users/rtesterbrook/Desktop/Pogo-Stick-Real-3/PogoStick-real/Library/PackageCache/com.unity.sysroot.linux-x86_64@1998d1c7730e",
       "fingerprint": "1998d1c7730e48fa49f28d983fececfc9cbd970b",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.0.9",

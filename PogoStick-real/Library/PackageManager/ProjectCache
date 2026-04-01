@@ -1,25 +1,25 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: /Users/aramirez/Desktop/Github/PogoStick-real/Packages/manifest.json
+    m_FilePath: /Users/rtesterbrook/Desktop/Pogo-Stick-Real-3/PogoStick-real/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639105614690000000
+      ticks: 639106475960000000
     m_Hash: 630422840
   m_LockFileStatus:
-    m_FilePath: /Users/aramirez/Desktop/Github/PogoStick-real/Packages/packages-lock.json
+    m_FilePath: /Users/rtesterbrook/Desktop/Pogo-Stick-Real-3/PogoStick-real/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639105614690000000
+      ticks: 639106475960000000
     m_Hash: 850276762
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: /Users/aramirez/Desktop/Github/PogoStick-real/Packages
+m_ProjectPath: /Users/rtesterbrook/Desktop/Pogo-Stick-Real-3/PogoStick-real/Packages
 m_EditorVersion: 6000.0.55f1 (c5f59906196d)
 m_ResolvedPackages:
 - packageId: com.unity.multiplayer.center@1.0.0
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/aramirez/Desktop/Github/PogoStick-real/Library/PackageCache/com.unity.multiplayer.center@f3fb577b3546
+  resolvedPath: /Users/rtesterbrook/Desktop/Pogo-Stick-Real-3/PogoStick-real/Library/PackageCache/com.unity.multiplayer.center@f3fb577b3546
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -120,7 +120,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.11
   source: 1
-  resolvedPath: /Users/aramirez/Desktop/Github/PogoStick-real/Library/PackageCache/com.unity.toolchain.macos-x86_64-linux-x86_64@0350a43511cb
+  resolvedPath: /Users/rtesterbrook/Desktop/Pogo-Stick-Real-3/PogoStick-real/Library/PackageCache/com.unity.toolchain.macos-x86_64-linux-x86_64@0350a43511cb
   assetPath: Packages/com.unity.toolchain.macos-x86_64-linux-x86_64
   name: com.unity.toolchain.macos-x86_64-linux-x86_64
   displayName: Toolchain MacOS Linux x64
@@ -2964,7 +2964,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.10
   source: 1
-  resolvedPath: /Users/aramirez/Desktop/Github/PogoStick-real/Library/PackageCache/com.unity.sysroot@7bbbb9339c14
+  resolvedPath: /Users/rtesterbrook/Desktop/Pogo-Stick-Real-3/PogoStick-real/Library/PackageCache/com.unity.sysroot@7bbbb9339c14
   assetPath: Packages/com.unity.sysroot
   name: com.unity.sysroot
   displayName: Sysroot Base
@@ -3065,7 +3065,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.9
   source: 1
-  resolvedPath: /Users/aramirez/Desktop/Github/PogoStick-real/Library/PackageCache/com.unity.sysroot.linux-x86_64@1998d1c7730e
+  resolvedPath: /Users/rtesterbrook/Desktop/Pogo-Stick-Real-3/PogoStick-real/Library/PackageCache/com.unity.sysroot.linux-x86_64@1998d1c7730e
   assetPath: Packages/com.unity.sysroot.linux-x86_64
   name: com.unity.sysroot.linux-x86_64
   displayName: Sysroot Linux x64
