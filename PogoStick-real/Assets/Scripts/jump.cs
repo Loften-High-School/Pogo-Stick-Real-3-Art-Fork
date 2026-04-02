@@ -18,20 +18,13 @@ public class jumpbumpy : MonoBehaviour
          if (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.UpArrow) == true) // if spacebar or up
         {
             print("key pressed!");
-            bool grounded = Physics.Raycast(player.transform.position, Vector3.down, 1f, LayerMask.NameToLayer("Ground")); // raycast down to look for ground is not detecting ground? only works if allowing jump when grounded = false; // return "Ground" layer as layer
+            bool grounded = (Physics.Raycast(player.transform.position, Vector3.down, 1f, LayerMask.NameToLayer("Ground"))); // raycast down to look for ground is not detecting ground? only works if allowing jump when grounded = false; // return "Ground" layer as layer
             if (grounded == true)
             {
                 print("grounded!");
-                jump();
+                rb.AddForce(transform.up * strength * Time.deltaTime);
             }
         }
     }
-    void jump()
-    {
-        rb.AddForce(transform.up * strength * Time.deltaTime);
-        UnityEngine.Debug.Log("please");
-        
-            
-        
-    }
+    
 }
