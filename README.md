@@ -3,4 +3,4 @@ Hello, this game is based off geting over it, there will be 3 main levels a circ
 Each level will have a small fragment based around the level design( A circus level could have something like a 3rd of a circus ball the custom level
 is up to you and the 3rd could be a volcanic rock)
 level 3 will be a volcano themed level with falling rocks with erupting lava in the volcanos
-Once someone gets all the fragments the 3 levels combine into one giant level or the entire mountin.
+Once someone gets all the fragments the 3 levels combine into one giant level or the entire mountain.
