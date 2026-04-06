@@ -2,7 +2,7 @@ Hello, this game is based off geting over it, there will be 3 main levels a circ
 
 Each level will have a small fragment based around the level design (Once all fragments are combined the shape will be a circle.)
 
-Level 1
+Level 1 A big grass platform, Little floating islands, A random pixel art verion of a generic guy named josh and a pogo stick sprite. The fragment can look like a dorito)
 
 Level 2 will be plant themed like tree's, flowers, things themed around plants; The fragment could just be a piece of wood.
 
