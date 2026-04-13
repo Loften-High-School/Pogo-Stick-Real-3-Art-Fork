@@ -6,7 +6,8 @@ public class controller : MonoBehaviour
     public int strength;
     public Rigidbody2D rb;
     public GameObject player;
-    
+
+    public float turnSpeed;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -37,10 +38,10 @@ public class controller : MonoBehaviour
 
         }
         float leftValue = InputSystem.actions.FindAction("RotateLeft").ReadValue<float>();
-        transform.Rotate(0, 0, leftValue * Time.deltaTime * 60.0f);
+        transform.Rotate(0, 0, leftValue * Time.deltaTime * turnSpeed);
 
         float rightValue = InputSystem.actions.FindAction("RotateRight").ReadValue<float>();
-        transform.Rotate(0, 0, -rightValue * Time.deltaTime * 60.0f);
+        transform.Rotate(0, 0, -rightValue * Time.deltaTime * turnSpeed);
     }
     
 }
