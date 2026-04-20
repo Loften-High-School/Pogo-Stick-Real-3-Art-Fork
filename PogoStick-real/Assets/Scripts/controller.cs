@@ -23,8 +23,8 @@ public class controller : MonoBehaviour
 
             Vector2 origin = player.transform.position;
             Vector2 direction = Vector2.down;
-            float distance = 0.1f;
-            origin.y -= 0.41f;
+            float distance = 0.05f;
+            origin.y -= 0.5f;
             // 2. Cast the ray
             RaycastHit2D hit = Physics2D.Raycast(origin, direction, distance);
             if (hit.collider != null)
