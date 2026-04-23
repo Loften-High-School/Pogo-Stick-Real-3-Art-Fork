@@ -127,6 +127,7 @@
 -define:UNITY_INPUT_SYSTEM_ENABLE_XR
 -define:UNITY_INPUT_SYSTEM_ENABLE_PHYSICS
 -define:UNITY_INPUT_SYSTEM_ENABLE_PHYSICS2D
+-define:UNITY_INPUT_SYSTEM_ENABLE_UI
 -define:HAS_SET_LOCAL_POSITION_AND_ROTATION
 -define:UNITY_INPUT_SYSTEM_PROJECT_WIDE_ACTIONS
 -define:UNITY_INPUT_SYSTEM_INPUT_ACTIONS_EDITOR_AUTO_SAVE_ON_FOCUS_LOST
@@ -393,6 +394,8 @@
 -r:"/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/NetStandard/ref/2.1.0/netstandard.dll"
 -r:"/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.iOS.Extensions.Xcode.dll"
 -r:"/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"

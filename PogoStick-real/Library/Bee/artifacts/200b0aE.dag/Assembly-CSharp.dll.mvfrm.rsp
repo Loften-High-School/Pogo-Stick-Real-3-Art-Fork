@@ -5,7 +5,11 @@ Library/Bee/artifacts/mvdfrm/Unity.Multiplayer.Center.Common.ref.dll_70C63ADD632
 Library/Bee/artifacts/mvdfrm/Unity.Multiplayer.Center.Editor.ref.dll_6DAF32D8644B89D6.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.Sysroot.Linux_x86_64.ref.dll_9C2BBB459B222BB3.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.SysrootPackage.Editor.ref.dll_E220FD5906D0D598.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.TextMeshPro.Editor.ref.dll_C5B7873C632B963A.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.TextMeshPro.ref.dll_EA61D4CF7C90DCE7.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.Toolchain.Macos-x86_64-Linux-x86_64.ref.dll_5981024D8170ACBB.mvfrm
+Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_BD0E97F52A0DF729.mvfrm
+Library/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_79746E5030301F94.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.Android.Gradle.dll_0036D09F8F264BA0.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.Android.Types.dll_384D6BAEBA195A9C.mvfrm
 Library/Bee/artifacts/mvdfrm/UnityEditor.Apple.Extensions.Common.dll_C80583FC8EEA6CAB.mvfrm
