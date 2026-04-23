@@ -1,4 +1,4 @@
-Hello, this game is based off geting over it, there will be 3 main levels a circus level with clouds for you to jump on to a small section where you can put anything you want as long as it's school allowed. 
+Hello, this game is based off geting over it, there will be 3 or 4 main levels a circus level with clouds for you to jump on to a small section that would be plant themed and then the last level being a level themed around a volcano and the last level is just the 3 maps combined into one level so you would only need to make a sprite with all 3 fragments combined!
 
 Each level will have a small fragment based around the level design (Once all fragments are combined the shape will be a circle.)
 
@@ -11,3 +11,11 @@ Level 3 will be a volcano themed level with falling rocks with erupting lava in 
 Once someone gets all the fragments the 3 levels combine into one giant level or the entire mountain.
 
 The type of art we are looking for is Pixel Art
+Music wise it can be discussed at a later time but the base idea
+For Level 1 silly music for example something you would hear out of cartoon
+
+For Level 2 something that has a violin I will give feedback when I hear the song you either made or created
+
+For Level 3 something intense I will leave it up to you on what it is!
+
+Have fun with it all!
