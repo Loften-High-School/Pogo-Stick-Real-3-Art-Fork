@@ -1,8 +1,8 @@
 Hello, this game is based off geting over it, there will be 3 or 4 main levels a circus level with clouds for you to jump on to a small section that would be plant themed and then the third level being a level themed around a volcano and the last level is just the 3 maps combined into one level.
 
-Each level will have a small fragment based around the level design (Once all fragments are combined the shape will be a circle.) You would need to make a sprite with all 3 fragements combined into one.
+Each level will have a small fragment based around the level design (Once all fragments are combined the shape will be a circle.) You would need to make a sprite with all 3 fragements combined into one. We would also need a Pogo stick Sprite
 
-Level 1 A big grass platform, Little floating islands, A random pixel art verion of a generic guy named josh and a pogo stick sprite. The fragment can look like a dorito
+Level 1 A big grass platform, Little floating islands, A random pixel art verion of a generic guy named josh. The fragment can look like a dorito
 
 Level 2 will be plant themed like tree's, flowers, things themed around plants; The fragment could just be a piece of wood.
 
