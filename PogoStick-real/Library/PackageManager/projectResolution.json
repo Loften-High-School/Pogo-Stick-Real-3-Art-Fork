@@ -9,6 +9,26 @@
     "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
+    "com.unity.2d.sprite@1.0.0": {
+      "name": "com.unity.2d.sprite",
+      "displayName": "2D Sprite",
+      "resolvedPath": "/Users/rtesterbrook/Desktop/Pogo-Stick-Real-3/PogoStick-real/Library/PackageCache/com.unity.2d.sprite@a1146c20a947",
+      "fingerprint": "a1146c20a94767d627b9db262ae136cedef9c2c7",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.inputsystem@1.14.2": {
+      "name": "com.unity.inputsystem",
+      "displayName": "Input System",
+      "resolvedPath": "/Users/rtesterbrook/Desktop/Pogo-Stick-Real-3/PogoStick-real/Library/PackageCache/com.unity.inputsystem@be6c4fd0abf5",
+      "fingerprint": "be6c4fd0abf5b9b45f956b97294032a67f3c2f4d",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "1.14.2",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.multiplayer.center@1.0.0": {
       "name": "com.unity.multiplayer.center",
       "displayName": "Multiplayer Center",
