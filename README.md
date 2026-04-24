@@ -12,11 +12,11 @@ Once someone gets all the fragments the 3 levels combine into one giant level or
 
 The type of art we are looking for is Pixel Art
 
-Music wise it can be discussed at a later time but the base idea
+Music wise it can be discussed at a later time but the base idea is
 
 For Level 1 silly music for example something you would hear out of cartoon
 
-For Level 2 something that has a violin 
+For Level 2 something that has a violin or something somewhat peaceful
 
 For Level 3 something intense I will leave it up to you on what it is!
 
