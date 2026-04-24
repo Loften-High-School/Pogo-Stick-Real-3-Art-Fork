@@ -1,8 +1,8 @@
-Hello, this game is based off geting over it, there will be 3 or 4 main levels a circus level with clouds for you to jump on to a small section that would be plant themed and then the third level being a level themed around a volcano and the last level is just the 3 maps combined into one level.
+Hello, this game is based off "Geting over it with bennett fody", but there will be 3 or 4 main levels a circus level to a section that would be plant themed to a level being themed around a volcano and the last level is just the 3 maps combined into one level.
 
-Each level will have a small fragment based around the level design (Once all fragments are combined the shape will be a circle.) You would need to make a sprite with all 3 fragements combined into one. We would also need a Pogo stick Sprite
+Each level will have a small fragment based around the level design (Once all fragments are combined the shape will be a circle.) You would need to make a sprite with all 3 fragements combined into one. We would also need a Pogo stick Sprite, and the sprites for the obstacles for each level
 
-Level 1 A big grass platform, Little floating islands, A random pixel art verion of a generic guy named josh. The fragment can look like a dorito
+Level 1 A big grass platform, Little floating clouds and islands, A random pixel art verion of a generic guy named josh. The fragment can look like a dorito chip (it has to be the red one or Nacho Cheese dorito)
 
 Level 2 will be plant themed like tree's, flowers, things themed around plants; The fragment could just be a piece of wood.
 
@@ -16,8 +16,10 @@ Music wise it can be discussed at a later time but the base idea
 
 For Level 1 silly music for example something you would hear out of cartoon
 
-For Level 2 something that has a violin I will give feedback when I hear the song you either made or created
+For Level 2 something that has a violin 
 
 For Level 3 something intense I will leave it up to you on what it is!
 
-Have fun with it, mainly the 1st level!
+We will give feedback when we hear the song you either made or created!
+
+Have fun with the music and have fun in general!
