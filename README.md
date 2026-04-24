@@ -1,4 +1,4 @@
-Hello, this game is based off "Geting over it with bennett fody", but there will be 3 or 4 main levels a circus level to a section that would be plant themed to a level being themed around a volcano and the last level is just the 3 maps combined into one level.
+Hello, this game is based off "Geting over it with bennett fody", but there will be 3 main levels a circus level to a section that would be plant themed to a level being themed around a volcano and the last level is just the 3 maps combined into one level.
 
 Each level will have a small fragment based around the level design (Once all fragments are combined the shape will be a circle.) You would need to make a sprite with all 3 fragements combined into one. We would also need a Pogo stick Sprite, and the sprites for the obstacles for each level
 
