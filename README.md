@@ -7,7 +7,7 @@ Level 1 A big grass platform, Little floating clouds and islands, A random pixel
 
 Level 2 will be plant themed like tree's, flowers, things themed around plants; The fragment could just be a piece of wood.
 
-Level 3 will be a volcano themed level with falling rocks with erupting lava in the volcanos. The fragment is a volcanic rock
+Level 3 will be a volcano themed level with falling rocks with erupting lava in the volcanos. The fragment is a volcanic rock (I will leave it up to you on what rock it is.)
 
 (Once all fragments are combined the shape will be a circle.) You would need to make a sprite with all 3 fragements combined into one. Once someone gets all the fragments the 3 levels combine into one giant level or the entire mountain.
 
