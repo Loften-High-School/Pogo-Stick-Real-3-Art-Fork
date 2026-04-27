@@ -391,6 +391,7 @@
 "Assets/Scripts/cameraRotationLock.cs"
 "Assets/Scripts/controller.cs"
 "Assets/Scripts/SwitchScenes.cs"
+"Assets/Scripts/teleporter.cs"
 -langversion:9.0
 /deterministic
 /optimize+
