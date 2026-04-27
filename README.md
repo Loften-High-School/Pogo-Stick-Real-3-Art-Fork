@@ -9,7 +9,7 @@ Level 2 will be plant themed like tree's, flowers, things themed around plants; 
 
 Level 3 will be a volcano themed level with falling rocks with erupting lava in the volcanos. The fragment is a volcanic rock (I will leave it up to you on what rock it is.)
 
-(Once all fragments are combined the shape will be a circle.) You would need to make a sprite with all 3 fragements combined into one. Once someone gets all the fragments the 3 levels combine into one giant level or the entire mountain.
+(Once all fragments are combined the shape will be a circle it doesn't need to be perfect.) You would need to make a sprite with all 3 fragements combined into one. Once someone gets all the fragments the 3 levels combine into one giant level or the entire mountain.
 
 
 The type of art we are looking for is Pixel Art
