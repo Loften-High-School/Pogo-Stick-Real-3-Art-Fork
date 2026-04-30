@@ -390,6 +390,7 @@
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Scripts/cameraRotationLock.cs"
 "Assets/Scripts/controller.cs"
+"Assets/Scripts/SceneSwitchBlock.cs"
 "Assets/Scripts/SwitchScenes.cs"
 "Assets/Scripts/teleporter.cs"
 -langversion:9.0
