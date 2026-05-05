@@ -8,7 +8,7 @@ public class controller : MonoBehaviour
     public GameObject player;
 
     public float turnSpeed;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    // Start is called once before the first execution of Update after the MonoBehaviour is created m
     void Start()
     {
         rb = GetComponent<Rigidbody2D>(); 
@@ -17,7 +17,7 @@ public class controller : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.UpArrow) == true) // if spacebar or up
+        if (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.M) == true) // if spacebar or up
         {
             print("key pressed!");
 
