@@ -25,3 +25,5 @@ For Level 3 something intense I will leave it up to you on what it is!
 We will give feedback when we hear the song you either found or created!
 
 Have fun with the music and have fun in general!
+
+You can contact me and my teammates at aramirez@gm.sbac.edu,rtesterbrook@gm.sbac.edu and pjhinson@gm.sbac.edu
