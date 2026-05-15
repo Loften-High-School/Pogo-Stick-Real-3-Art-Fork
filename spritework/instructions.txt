@@ -1,0 +1,8 @@
+split the platform sprite into 3 32x32 tiles and the middle one should repeat until the end
+
+backgrounds will be 320x224 pixels and the camera should be that or a multiple of it
+
+actually, all tiles will have a base of 32x32
+
+restricted color palettes are ideal
+
