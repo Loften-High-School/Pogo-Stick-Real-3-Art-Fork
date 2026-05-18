@@ -17,7 +17,7 @@ public class controller : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.M) == true) // if spacebar or up
+        if (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.M) || Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow)) // if spacebar or up
         {
             print("key pressed!");
 

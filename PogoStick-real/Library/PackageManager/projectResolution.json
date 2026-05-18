@@ -1,19 +1,19 @@
 {
   "context": {
-    "projectPath": "/Users/ngorme/Documents/GitHub/Pogo-Stick-Real-3/PogoStick-real/Packages",
-    "unityVersion": "6000.1.15f1"
+    "projectPath": "/Users/kvcamaratta/Downloads/PogoStick-real copy/Packages",
+    "unityVersion": "6000.0.55f1"
   },
   "inputs": [
-    "/Users/ngorme/Documents/GitHub/Pogo-Stick-Real-3/PogoStick-real/Packages/manifest.json",
-    "/Users/ngorme/Documents/GitHub/Pogo-Stick-Real-3/PogoStick-real/Packages/packages-lock.json",
-    "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/BuiltInPackagesCombined.sha1"
+    "/Users/kvcamaratta/Downloads/PogoStick-real copy/Packages/manifest.json",
+    "/Users/kvcamaratta/Downloads/PogoStick-real copy/Packages/packages-lock.json",
+    "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
     "com.unity.2d.sprite@1.0.0": {
       "name": "com.unity.2d.sprite",
       "displayName": "2D Sprite",
-      "resolvedPath": "/Users/ngorme/Documents/GitHub/Pogo-Stick-Real-3/PogoStick-real/Library/PackageCache/com.unity.2d.sprite@5eb30061d420",
-      "fingerprint": "5eb30061d42006925d91d40a6a8fca10bd64bbee",
+      "resolvedPath": "/Users/kvcamaratta/Downloads/PogoStick-real copy/Library/PackageCache/com.unity.2d.sprite@a1146c20a947",
+      "fingerprint": "a1146c20a94767d627b9db262ae136cedef9c2c7",
       "editorCompatibility": "2019.2.0a1",
       "version": "1.0.0",
       "source": "builtin",
@@ -22,7 +22,7 @@
     "com.unity.inputsystem@1.14.2": {
       "name": "com.unity.inputsystem",
       "displayName": "Input System",
-      "resolvedPath": "/Users/ngorme/Documents/GitHub/Pogo-Stick-Real-3/PogoStick-real/Library/PackageCache/com.unity.inputsystem@be6c4fd0abf5",
+      "resolvedPath": "/Users/kvcamaratta/Downloads/PogoStick-real copy/Library/PackageCache/com.unity.inputsystem@be6c4fd0abf5",
       "fingerprint": "be6c4fd0abf5b9b45f956b97294032a67f3c2f4d",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.14.2",
@@ -32,7 +32,7 @@
     "com.unity.multiplayer.center@1.0.0": {
       "name": "com.unity.multiplayer.center",
       "displayName": "Multiplayer Center",
-      "resolvedPath": "/Users/ngorme/Documents/GitHub/Pogo-Stick-Real-3/PogoStick-real/Library/PackageCache/com.unity.multiplayer.center@f3fb577b3546",
+      "resolvedPath": "/Users/kvcamaratta/Downloads/PogoStick-real copy/Library/PackageCache/com.unity.multiplayer.center@f3fb577b3546",
       "fingerprint": "f3fb577b3546594b97b8cc34307cd621f60f1c73",
       "editorCompatibility": "6000.0.0a1",
       "version": "1.0.0",
@@ -42,7 +42,7 @@
     "com.unity.toolchain.macos-x86_64-linux-x86_64@2.0.11": {
       "name": "com.unity.toolchain.macos-x86_64-linux-x86_64",
       "displayName": "Toolchain MacOS Linux x64",
-      "resolvedPath": "/Users/ngorme/Documents/GitHub/Pogo-Stick-Real-3/PogoStick-real/Library/PackageCache/com.unity.toolchain.macos-x86_64-linux-x86_64@0350a43511cb",
+      "resolvedPath": "/Users/kvcamaratta/Downloads/PogoStick-real copy/Library/PackageCache/com.unity.toolchain.macos-x86_64-linux-x86_64@0350a43511cb",
       "fingerprint": "0350a43511cbce4ac38a82c02ac376f8d701c8ae",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.0.11",
@@ -52,8 +52,8 @@
     "com.unity.ugui@2.0.0": {
       "name": "com.unity.ugui",
       "displayName": "Unity UI",
-      "resolvedPath": "/Users/ngorme/Documents/GitHub/Pogo-Stick-Real-3/PogoStick-real/Library/PackageCache/com.unity.ugui@1a71b488df3e",
-      "fingerprint": "1a71b488df3ebf0445532ad09fea67fd1a895ab4",
+      "resolvedPath": "/Users/kvcamaratta/Downloads/PogoStick-real copy/Library/PackageCache/com.unity.ugui@529b01454a55",
+      "fingerprint": "529b01454a5505bdf629ef2d4df32fecada24ec3",
       "editorCompatibility": "2019.2.0a1",
       "version": "2.0.0",
       "source": "builtin",
@@ -62,7 +62,7 @@
     "com.unity.modules.accessibility@1.0.0": {
       "name": "com.unity.modules.accessibility",
       "displayName": "Accessibility",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.accessibility",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.accessibility",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -70,7 +70,7 @@
     "com.unity.modules.ai@1.0.0": {
       "name": "com.unity.modules.ai",
       "displayName": "AI",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -78,7 +78,7 @@
     "com.unity.modules.androidjni@1.0.0": {
       "name": "com.unity.modules.androidjni",
       "displayName": "Android JNI",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.androidjni",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.androidjni",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -86,7 +86,7 @@
     "com.unity.modules.animation@1.0.0": {
       "name": "com.unity.modules.animation",
       "displayName": "Animation",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -94,7 +94,7 @@
     "com.unity.modules.assetbundle@1.0.0": {
       "name": "com.unity.modules.assetbundle",
       "displayName": "Asset Bundle",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -102,7 +102,7 @@
     "com.unity.modules.audio@1.0.0": {
       "name": "com.unity.modules.audio",
       "displayName": "Audio",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -110,7 +110,7 @@
     "com.unity.modules.cloth@1.0.0": {
       "name": "com.unity.modules.cloth",
       "displayName": "Cloth",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -118,7 +118,7 @@
     "com.unity.modules.director@1.0.0": {
       "name": "com.unity.modules.director",
       "displayName": "Director",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.director",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.director",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -126,7 +126,7 @@
     "com.unity.modules.imageconversion@1.0.0": {
       "name": "com.unity.modules.imageconversion",
       "displayName": "Image Conversion",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -134,7 +134,7 @@
     "com.unity.modules.imgui@1.0.0": {
       "name": "com.unity.modules.imgui",
       "displayName": "IMGUI",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -142,7 +142,7 @@
     "com.unity.modules.jsonserialize@1.0.0": {
       "name": "com.unity.modules.jsonserialize",
       "displayName": "JSONSerialize",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -150,7 +150,7 @@
     "com.unity.modules.particlesystem@1.0.0": {
       "name": "com.unity.modules.particlesystem",
       "displayName": "Particle System",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -158,7 +158,7 @@
     "com.unity.modules.physics@1.0.0": {
       "name": "com.unity.modules.physics",
       "displayName": "Physics",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -166,7 +166,7 @@
     "com.unity.modules.physics2d@1.0.0": {
       "name": "com.unity.modules.physics2d",
       "displayName": "Physics 2D",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -174,7 +174,7 @@
     "com.unity.modules.screencapture@1.0.0": {
       "name": "com.unity.modules.screencapture",
       "displayName": "Screen Capture",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -182,7 +182,7 @@
     "com.unity.modules.terrain@1.0.0": {
       "name": "com.unity.modules.terrain",
       "displayName": "Terrain",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -190,7 +190,7 @@
     "com.unity.modules.terrainphysics@1.0.0": {
       "name": "com.unity.modules.terrainphysics",
       "displayName": "Terrain Physics",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -198,7 +198,7 @@
     "com.unity.modules.tilemap@1.0.0": {
       "name": "com.unity.modules.tilemap",
       "displayName": "Tilemap",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -206,7 +206,7 @@
     "com.unity.modules.ui@1.0.0": {
       "name": "com.unity.modules.ui",
       "displayName": "UI",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -214,7 +214,7 @@
     "com.unity.modules.uielements@1.0.0": {
       "name": "com.unity.modules.uielements",
       "displayName": "UIElements",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -222,7 +222,7 @@
     "com.unity.modules.umbra@1.0.0": {
       "name": "com.unity.modules.umbra",
       "displayName": "Umbra",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -230,7 +230,7 @@
     "com.unity.modules.unityanalytics@1.0.0": {
       "name": "com.unity.modules.unityanalytics",
       "displayName": "Unity Analytics",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -238,7 +238,7 @@
     "com.unity.modules.unitywebrequest@1.0.0": {
       "name": "com.unity.modules.unitywebrequest",
       "displayName": "Unity Web Request",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -246,7 +246,7 @@
     "com.unity.modules.unitywebrequestassetbundle@1.0.0": {
       "name": "com.unity.modules.unitywebrequestassetbundle",
       "displayName": "Unity Web Request Asset Bundle",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -254,7 +254,7 @@
     "com.unity.modules.unitywebrequestaudio@1.0.0": {
       "name": "com.unity.modules.unitywebrequestaudio",
       "displayName": "Unity Web Request Audio",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -262,7 +262,7 @@
     "com.unity.modules.unitywebrequesttexture@1.0.0": {
       "name": "com.unity.modules.unitywebrequesttexture",
       "displayName": "Unity Web Request Texture",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -270,7 +270,7 @@
     "com.unity.modules.unitywebrequestwww@1.0.0": {
       "name": "com.unity.modules.unitywebrequestwww",
       "displayName": "Unity Web Request WWW",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -278,7 +278,7 @@
     "com.unity.modules.vehicles@1.0.0": {
       "name": "com.unity.modules.vehicles",
       "displayName": "Vehicles",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -286,7 +286,7 @@
     "com.unity.modules.video@1.0.0": {
       "name": "com.unity.modules.video",
       "displayName": "Video",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.video",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.video",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -294,7 +294,7 @@
     "com.unity.modules.vr@1.0.0": {
       "name": "com.unity.modules.vr",
       "displayName": "VR",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -302,7 +302,7 @@
     "com.unity.modules.wind@1.0.0": {
       "name": "com.unity.modules.wind",
       "displayName": "Wind",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -310,7 +310,7 @@
     "com.unity.modules.xr@1.0.0": {
       "name": "com.unity.modules.xr",
       "displayName": "XR",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -318,7 +318,7 @@
     "com.unity.modules.subsystems@1.0.0": {
       "name": "com.unity.modules.subsystems",
       "displayName": "Subsystems",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.subsystems",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.subsystems",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -326,7 +326,7 @@
     "com.unity.modules.hierarchycore@1.0.0": {
       "name": "com.unity.modules.hierarchycore",
       "displayName": "Hierarchy Core",
-      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.hierarchycore",
+      "resolvedPath": "/Applications/Unity/Hub/Editor/6000.0.55f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.hierarchycore",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -334,7 +334,7 @@
     "com.unity.sysroot@2.0.10": {
       "name": "com.unity.sysroot",
       "displayName": "Sysroot Base",
-      "resolvedPath": "/Users/ngorme/Documents/GitHub/Pogo-Stick-Real-3/PogoStick-real/Library/PackageCache/com.unity.sysroot@7bbbb9339c14",
+      "resolvedPath": "/Users/kvcamaratta/Downloads/PogoStick-real copy/Library/PackageCache/com.unity.sysroot@7bbbb9339c14",
       "fingerprint": "7bbbb9339c143f6fbccaeb0a52c77b9217b35a71",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.0.10",
@@ -344,7 +344,7 @@
     "com.unity.sysroot.linux-x86_64@2.0.9": {
       "name": "com.unity.sysroot.linux-x86_64",
       "displayName": "Sysroot Linux x64",
-      "resolvedPath": "/Users/ngorme/Documents/GitHub/Pogo-Stick-Real-3/PogoStick-real/Library/PackageCache/com.unity.sysroot.linux-x86_64@1998d1c7730e",
+      "resolvedPath": "/Users/kvcamaratta/Downloads/PogoStick-real copy/Library/PackageCache/com.unity.sysroot.linux-x86_64@1998d1c7730e",
       "fingerprint": "1998d1c7730e48fa49f28d983fececfc9cbd970b",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.0.9",
